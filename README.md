@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [https://github.com/Matias-Anastasio/mycesteticaintegral.git](https://github.com/Matias-Anastasio/mycesteticaintegral.git)
 
-- 🌱 I’m currently learning ** JavaScript, HTML, CSS, GIT**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, GIT**
 
 - 💬 Ask me about **tech, movies, music, videogames.**
 
