@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matias Anastasio</h1>
 <h3 align="center">Student</h3>
 
-- 🔭 I’m currently working on [https://github.com/Matias-Anastasio/piedra-papel-tijera](https://github.com/Matias-Anastasio/piedra-papel-tijera)
+- 🔭 I’m currently working on my portfolio
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, GIT**
+- 🌱 I’m currently learning **React, JavaScript, HTML, CSS, GIT**
 
 - 💬 Ask me about **tech, movies, music, videogames.**
 
