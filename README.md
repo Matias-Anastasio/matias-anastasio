@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matias Anastasio</h1>
 <h3 align="center">Student</h3>
 
-- 🔭 I’m currently working on my portfolio
+[My Portfolio](https://matiasanastasio.netlify.app/)
 
-- 🌱 I’m currently learning **React, JavaScript, HTML, CSS, GIT**
+- 🌱 I’m currently learning **JAVA**
 
 - 💬 Ask me about **tech, movies, music, videogames.**
 
